@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function searchBar() {
+function SearchBar() {
     return (
         <div className="SearchBar">
       <input placeholder="Enter A Song, Album, or Artist" />
@@ -10,4 +10,4 @@ function searchBar() {
     )
 }
 
-export default searchBar;
+export default SearchBar;

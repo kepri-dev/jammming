@@ -1,13 +1,13 @@
 import React from "react";
-import trackList from '../TrackList/trackList'
+import TrackList from '../TrackList/trackList'
 
-function searchResults() {
+function SearchResults() {
     return (
         <div className="SearchResults">
       <h2>Results</h2>
-      <trackList />
+      <TrackList />
     </div>
     )
 }
 
-export default searchResults;
+export default SearchResults;

@@ -1,6 +1,6 @@
 import React from 'react';
 
-function track() {
+function Track() {
   return (
     <div className="Track">
       <div className="Track-information">
@@ -12,4 +12,4 @@ function track() {
   );
 }
 
-export default track;
+export default Track;

@@ -1,7 +1,7 @@
 import React from 'react';
-import trackList from '../TrackList/trackList';
+import TrackList from '../TrackList/trackList';
 
-function playlist() {
+function Playlist() {
   return (
     <div className="Playlist">
       <input defaultValue={'New Playlist'}/>
@@ -11,5 +11,5 @@ function playlist() {
   );
 }
 
-export default playlist;
+export default Playlist;
 

@@ -1,9 +1,9 @@
 import React from "react";
-import trackList from '../TrackList/trackList';
-import track from "../Track/track";
-import searchBar from '../SearchBar/searchBar';
-import searchResults from '../SearchResults/searchResults';
-import playlist from '../Playlist/playlist';
+import TrackList from '../TrackList/trackList';
+import Track from "../Track/track";
+import SearchBar from '../SearchBar/searchBar';
+import SearchResults from '../SearchResults/searchResults';
+import Playlist from '../Playlist/playlist';
 
 
 
