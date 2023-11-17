@@ -1,7 +1,7 @@
 import React from 'react';
-import track from '../Track/track';
+import track from '../Track/Track';
 
-function trackList() {
+function TrackList() {
   return (
     <div className="TrackList">
       {/*  add  .map() method here */}
@@ -9,4 +9,4 @@ function trackList() {
   );
 }
 
-export default trackList;
+export default TrackList;
